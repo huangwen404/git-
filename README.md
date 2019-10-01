@@ -1,2 +1,2 @@
-# rebase
-learn some git skills
+# git rebase 和 git merge
+
