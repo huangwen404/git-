@@ -7,4 +7,4 @@ git rebase翻译过来叫变基,即改变起始节点,
 
 
 ### git revert 和 git reset
-后者会丢失版本一般不推荐
+后者会丢失commit历史一般不推荐
